@@ -1,0 +1,20 @@
+exclude:
+  - node_modules
+  - script
+
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/pages-themes/primer"
+  
+title: Remoboard
+description: Remote Keyboard, Type From PC/Mac Desktop, Make Typing on Phone Faster. 远程输入法，通过电脑给手机打字，让打字飞速。

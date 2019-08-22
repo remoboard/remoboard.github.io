@@ -45,6 +45,7 @@ Remoboard contains 2 components: `iOS App` and `macOS App`. The two components a
 
 ![](/media/15664933888645.jpg)
 
+
 ### Use Now
 
 (1) On iPhone, open any app that we could type. e.g. `Notes`. Switch keyboard into `Remoboard` as below:
@@ -71,6 +72,10 @@ And the corresponding iPhone shows `Connected, Enjoy typing :)` as below:
 
 That's all for the quick start, and there is more for us to explore.
 
+## Download
+
+- iOS [AppStore](#)
+- macOS [Download](https://github.com/remoboard/remoboard.github.io/releases)
 
 ## More
 

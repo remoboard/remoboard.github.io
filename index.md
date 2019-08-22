@@ -5,6 +5,7 @@ title: Remoboard
 
 `Remoboard` means `Remote Keyboard`. With Remoboard, we can type in macOS and input into iOS. Make typing on iPhone more faster under certain situation.
 
+![macos](/media/macos.png)
 
 
 ## Quick Start

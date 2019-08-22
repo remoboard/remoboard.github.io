@@ -14,7 +14,7 @@ github:
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/pages-themes/primer"
+  repository_url: "https://github.com/remoboard/remoboard.github.io"
   
 title: Remoboard
-description: Remote Keyboard, Type From PC/Mac Desktop, Make Typing on Phone Faster. 远程输入法，通过电脑给手机打字，让打字飞速。
+description: Remote Keyboard | 远程输入法 | Type From PC/Mac Desktop, Make Typing on Phone Faster. 通过电脑给手机打字，让打字飞速。

@@ -8,12 +8,22 @@ title: Remoboard
 ![macos](/media/macos.png)
 
 
+- [Quick Start](#quick-start)
+- Install Guide [iOS](#install-ios) / [macOS](#install-macos)
+- [Usage](#usage)
+- [Download](#download)
+- [More](#more)
+- [FAQ](#faq)
+- [Contact](#contact)
+- [中文网站](/zhcn)
+
+
 ## Quick Start
 
 Remoboard contains 2 components: `iOS App` and `macOS App`. The two components always work together.
 
 
-### Install iOS App
+### Install iOS
 
 (1) Download Remoboard iOS App from [AppStore](#).
 
@@ -35,7 +45,7 @@ Remoboard contains 2 components: `iOS App` and `macOS App`. The two components a
 
 
 
-### Install macOS App
+### Install macOS
 
 (1) Download macOS App `RemoboardMac.zip` from [Here](https://github.com/remoboard/remoboard.github.io/releases)
 
@@ -47,7 +57,7 @@ Remoboard contains 2 components: `iOS App` and `macOS App`. The two components a
 ![](/media/15664933888645.jpg)
 
 
-### Use Now
+### Usage
 
 (1) On iPhone, open any app that we could type. e.g. `Notes`. Switch keyboard into `Remoboard` as below:
 

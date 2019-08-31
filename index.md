@@ -25,7 +25,7 @@ Remoboard contains 2 components: `iOS App` and `macOS App`. The two components a
 
 ### Install iOS
 
-(1) Download Remoboard iOS App from [AppStore](#).
+(1) Download Remoboard (Remote Keyboard) iOS App from [AppStore](#).
 
 (2) Open `Settings > General > Keyboard > Keyboards > Add New Keyboard...`
 

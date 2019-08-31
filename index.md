@@ -25,7 +25,7 @@ Remoboard contains 2 components: `iOS App` and `macOS App`. The two components a
 
 ### Install iOS
 
-(1) Download Remoboard (Remote Keyboard) iOS App from [AppStore](#).
+(1) Download Remoboard iOS App from [AppStore](#).
 
 (2) Open `Settings > General > Keyboard > Keyboards > Add New Keyboard...`
 
@@ -65,7 +65,8 @@ Remoboard contains 2 components: `iOS App` and `macOS App`. The two components a
 
 And now, the `Remoboard` will display a message that contains an `Connection Code` and `IP Address`. **Make sure iPhone is under Wi-Fi connection**
 
-![](/media/15664941487837.jpg)
+![](/media/15672159587374.jpg)
+
 
 
 (2) Open `Remoboard` on macOS, we could see below:
@@ -144,6 +145,7 @@ Yes, bluetooth is another connection mode. But there still are  lot optimization
 
 E-mail me anything you want. Address is everettjf@live.com
 
+---
 
 Wish you enjoy :)
 

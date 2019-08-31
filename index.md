@@ -80,7 +80,7 @@ Type `Connection Code` displayed on iPhone, and tap `Connect`. If all goes well,
 
 And the corresponding iPhone shows `Connected, Enjoy typing :)` as below:
 
-![](/media/15664950826884.jpg)
+![](/media/15672684965687.jpg)
 
 That's all for the quick start, and there is more for us to explore.
 

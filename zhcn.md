@@ -97,55 +97,59 @@ title: 远程输入法
 
 有三种输入模式：
 
-![](/media/15664952888164.jpg)
+![](/media/15673533973864.jpg)
 
-(1) Standard Input Mode
+(1) 标准输入模式
 
-Under this mode, we can type one line. When we tap `Enter`, the text will be sent to phone.
+这种模式下可以输入「一行文字」，然后「按回车发送」。
 
-![](/media/15664954761926.jpg)
+![](/media/15673534147742.jpg)
 
 
 
-(2) Multiline Input Mode
+(2) 多行输入模式
 
-![](/media/15664955051046.jpg)
+这种模式下，可以「输入或粘贴多行文字」，「点击按钮」发送。
 
-Under this mode, we can type multiline. When we click `Send` button in the right-bottom, the text will be sent to phone.
+![](/media/15673534464766.jpg)
 
-(3) Immediate Input Mode
 
-![](/media/15664955181476.jpg)
+(3) 即时输入模式（编程模式）
 
-Under this mode, keys will be sent immediate when the typing finish. This mode is useful when we coding on phone. e.g. javascript or python etc.
 
+![](/media/15673534599305.jpg)
+
+这种模式下，文字会边打边发送，很适合一些手机端的编程应用。
 
 ### 连接模式
 
 有两种连接模式：
 
-(1) IP address or Connection Code (which is another representation of IP address)
+(1) 连接码或IP地址模式。（连接码本质上是IP地址的另一个表示方式）
 
-(2) Bluetooth
+(2) 蓝牙模式。（目前可能不够稳定）
 
-![](/media/15664953486849.jpg)
+![](/media/15673534850484.jpg)
 
-Usage will be the same as you think.
 
 
 ## 常见问题
 
-### Connection can not created ?
+### 连接码连接不上？
 
-Make sure phone and mac are under same subnet, and they can successfully ping each other.
+1. 确保手机和电脑连接到了「一个网络中」。
+2. 确保电脑可以ping通手机的IP地址。
 
-### Bluetooth not stable ?
 
-Yes, bluetooth is another connection mode. But there still are  lot optimization works to do for now.
+### 蓝牙不稳定？Bluetooth not stable ?
+
+蓝牙连接方式还是测试阶段，基本可用，但多数情况不如连接码稳定。
 
 ## 联系方式
 
-E-mail me anything you want. Address is everettjf@live.com
+邮箱 everettjf@live.com
+
+或关注[这里](https://everettjf.github.io/bukuzao/)的微信订阅号，点击菜单「远程输入」加群。
 
 ---
 

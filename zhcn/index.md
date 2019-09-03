@@ -10,8 +10,8 @@ title: 远程输入法
 
 - [快速开始](#快速开始)
 - 安装
-    - 手机端 [iOS](#ios安装) | [Android](#android安装)
-    - 电脑端 [macOS](#macos安装) | [Windows](#windows安装)
+    - 手机端 [iOS](#ios安装) / [Android](#android安装)
+    - 电脑端 [macOS](#macos安装) / [Windows](#windows安装)
 - 使用方法
     - [iOS配合macOS使用方法](#ios配合macos使用方法)
     - [Android配合Windows使用方法](#android配合windows使用方法)

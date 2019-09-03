@@ -10,8 +10,8 @@ title: Remoboard
 
 - [Quick Start](#quick-start)
 - Install Guide 
-    - Phone App [iOS](#install-ios) | [Android](#install-android) 
-    - Desktop App [macOS](#install-macos) | [Windows](#install-windows)
+    - Phone App [iOS](#install-ios) / [Android](#install-android) 
+    - Desktop App [macOS](#install-macos) / [Windows](#install-windows)
 - Usage
     - [Usage iOS with macOS](#usage-ios-with-macos)
     - [Usage Android with Windows](#usage-android-with-windows)

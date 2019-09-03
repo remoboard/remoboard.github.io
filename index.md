@@ -15,7 +15,7 @@ title: Remoboard
 - [More](#more)
 - [FAQ](#faq)
 - [Contact](#contact)
-- [中文网站](/zhcn)
+- [中文网站](/zhcn/)
 
 
 ## Quick Start

@@ -3,24 +3,28 @@ layout: default
 title: Remoboard
 ---
 
-`Remoboard` means `Remote Keyboard`. With Remoboard, we can type in macOS and input into iOS. Make typing on iPhone more faster under certain situation.
+`Remoboard` means `Remote Keyboard`. With Remoboard, we can type in Desktop (macOS or Windows) and input into Phone (iOS or Android). Make typing on Phone more faster under certain situation.
 
 ![macos](/media/macos.png)
 
 
 - [Quick Start](#quick-start)
-- Install Guide [iOS](#install-ios) / [macOS](#install-macos)
-- [Usage](#usage)
+- Install Guide 
+    - Phone App [iOS](#install-ios) | [Android](#install-android) 
+    - Desktop App [macOS](#install-macos) | [Windows](#install-windows)
+- Usage
+    - [Usage iOS with macOS](#usage-ios-with-macos)
+    - [Usage Android with Windows](#usage-android-with-windows)
 - [Download](#download)
 - [More](#more)
 - [FAQ](#faq)
 - [Contact](#contact)
-- [中文网站](/zhcn/)
+- [中文网站](/zhcn)
 
 
 ## Quick Start
 
-Remoboard contains 2 components: `iOS App` and `macOS App`. The two components always work together.
+Remoboard contains 2 components: `Phone App (iOS or Android)` and `Desktop App (macOS or Windows)`. The two components always work together.
 
 
 ### Install iOS
@@ -43,6 +47,21 @@ Remoboard contains 2 components: `iOS App` and `macOS App`. The two components a
 
 
 
+### Install Android
+
+(1) Start app and tap `Enable Keyboard` , and turn on `Remoboard` in `Manage keyboards`
+
+![](/media/15674788823905.jpg)
+
+
+![](/media/15674791218223.jpg)
+
+(2) Tap `Switch Keyboard`, and switch to `Remoboard`
+
+![](/media/15674790221849.jpg)
+![](/media/15674791417953.jpg)
+
+(3) And it is ready now.
 
 
 ### Install macOS
@@ -56,8 +75,15 @@ Remoboard contains 2 components: `iOS App` and `macOS App`. The two components a
 
 ![](/media/15664933888645.jpg)
 
+### Install Windows
 
-### Usage
+(1) Download Windows App `RemoboardWindows.zip` from [Here](https://github.com/remoboard/remoboard.github.io/releases)
+
+(2) Unzip and double click to run the installer. It is easy to complete the installation.
+
+
+
+### Usage iOS with macOS
 
 (1) On iPhone, open any app that we could type. e.g. `Notes`. Switch keyboard into `Remoboard` as below:
 
@@ -84,10 +110,22 @@ And the corresponding iPhone shows `Connected, Enjoy typing :)` as below:
 
 That's all for the quick start, and there is more for us to explore.
 
+
+### Usage Android with Windows
+
+Almost same to iOS with macOS.
+
 ## Download
 
-- iOS [AppStore](#)
+### Phone App
+
+- iOS [AppStore](https://apps.apple.com/us/app/id1474458879)
+- Android *soon*
+
+### Desktop 
+
 - macOS [Download](https://github.com/remoboard/remoboard.github.io/releases)
+- Windows [Download](https://github.com/remoboard/remoboard.github.io/releases)
 
 ## More
 

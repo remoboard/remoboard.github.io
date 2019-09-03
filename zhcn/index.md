@@ -9,10 +9,14 @@ title: 远程输入法
 
 
 - [快速开始](#快速开始)
-- 安装 [iOS](#ios安装) / [macOS](#macos安装)
-- [使用方法](#使用方法)
+- 安装
+    - 手机端 [iOS](#ios安装) | [Android](#android安装)
+    - 电脑端 [macOS](#macos安装) | [Windows](#windows安装)
+- 使用方法
+    - [iOS配合macOS使用方法](#ios配合macos使用方法)
+    - [Android配合Windows使用方法](#android配合windows使用方法)
 - [下载地址](#下载地址)
-- [更多](#更多)
+- [更多用法](#更多用法)
 - [常见问题](#常见问题)
 - [联系方式](#联系方式)
 - [English Website](/)
@@ -20,7 +24,7 @@ title: 远程输入法
 
 ## 快速开始
 
-远程输入法包含`两个部分`，`手机端`和`电脑端`。这两个端相互配合完成打字。
+远程输入法包含`两个部分`，`手机端`和`电脑端`。这两个端相互配合完成打字。因此，如果要使用这个输入法，手机端和电脑端分别有一个就可以。
 
 ### iOS安装
 
@@ -44,6 +48,20 @@ title: 远程输入法
 
 
 
+### Android安装
+
+（1）打开应用，点击启用输入法
+
+![](/media/15674804651396.jpg)
+
+![](/media/15674804995225.jpg)
+
+（2）切换输入法
+
+![](/media/15674805232856.jpg)
+
+
+（3）然后就可以输入了。
 
 
 ### macOS安装
@@ -57,8 +75,13 @@ title: 远程输入法
 
 ![](/media/15664933888645.jpg)
 
+### Windows安装
 
-### 使用方法
+(1) 下载Windows 应用 `RemoboardWindows.zip`，[下载地址在这里](https://github.com/remoboard/remoboard.github.io/releases)
+
+(2) 解压后，安装。
+
+### iOS配合macOS使用方法
 
 (1) 在手机上，打开任意可以输入文字的应用，长按左下角切换到`远程输入法`
 
@@ -86,12 +109,27 @@ title: 远程输入法
 
 一旦熟悉了，就很简单易用啦 :)
 
+
+
+### Android配合Windows使用方法
+
+
+用法几乎和「iOS配合macOS使用方法」一样啦。
+
+
 ## 下载地址
 
-- iOS [AppStore](#)
-- macOS [Download](https://github.com/remoboard/remoboard.github.io/releases)
+### 手机端
 
-## 更多
+- iOS [AppStore](https://apps.apple.com/cn/app/id1474458879)
+- Android [酷安](https://www.coolapk.com/apk/241412)
+
+### 电脑端
+
+- macOS [Download](https://github.com/remoboard/remoboard.github.io/releases)
+- Windows [Download](https://github.com/remoboard/remoboard.github.io/releases)
+
+## 更多用法
 
 ### 输入模式
 

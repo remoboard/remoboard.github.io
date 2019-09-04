@@ -29,7 +29,7 @@ Remoboard contains 2 components: `Phone App (iOS or Android)` and `Desktop App (
 
 ### Install iOS
 
-(1) Download Remoboard iOS App from [AppStore](#).
+(1) Download Remoboard iOS App from [AppStore](https://apps.apple.com/us/app/id1474458879)
 
 (2) Open `Settings > General > Keyboard > Keyboards > Add New Keyboard...`
 

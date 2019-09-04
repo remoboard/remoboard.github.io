@@ -28,7 +28,7 @@ title: 远程输入法
 
 ### iOS安装
 
-(1) 从AppStore下载远程输入法 [AppStore](#)
+(1) 从AppStore下载远程输入法 [AppStore](https://apps.apple.com/cn/app/id1474458879)
 
 (2) 打开 `设置>通用>键盘>键盘>添加新键盘`
 
@@ -50,7 +50,7 @@ title: 远程输入法
 
 ### Android安装
 
-（1）打开应用，点击启用输入法
+（1）从 [酷安](https://www.coolapk.com/apk/241412) 安装，然后打开应用，点击启用输入法
 
 ![](/media/15674804651396.jpg)
 
@@ -179,7 +179,7 @@ title: 远程输入法
 2. 确保电脑可以ping通手机的IP地址。
 
 
-### 蓝牙不稳定？Bluetooth not stable ?
+### 蓝牙不稳定？
 
 蓝牙连接方式还是测试阶段，基本可用，但多数情况不如连接码稳定。
 

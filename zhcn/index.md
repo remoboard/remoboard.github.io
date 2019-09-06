@@ -109,12 +109,27 @@ title: 远程输入法
 
 一旦熟悉了，就很简单易用啦 :)
 
+有「三种输入模式」，请见下文。
 
 
 ### Android配合Windows使用方法
 
 
-用法几乎和「iOS配合macOS使用方法」一样啦。
+(1) 首先切换输入法到「远程输入法」
+
+![](/media/15677838792591.jpg)
+
+
+（2）在可输入文字的位置，远程输入法默认会显示连接码。
+
+![](/media/15677837375419.jpg)
+
+（3） 打开Windows客户端，输入连接码，点击「连接」。如果连接成功，则可以在下面的输入框中打字。
+
+![](/media/15677831476448.jpg)
+
+
+有「三种输入模式」，请见下文。
 
 
 ## 下载地址
@@ -122,7 +137,7 @@ title: 远程输入法
 ### 手机端
 
 - iOS [AppStore](https://apps.apple.com/cn/app/id1474458879)
-- Android [酷安](https://www.coolapk.com/apk/241412)
+- Android [酷安](https://www.coolapk.com/apk/241412) 或 [PlayStore](https://play.google.com/store/apps/details?id=com.everettjf.remoboard)
 
 ### 电脑端
 

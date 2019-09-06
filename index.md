@@ -113,14 +113,26 @@ That's all for the quick start, and there is more for us to explore.
 
 ### Usage Android with Windows
 
-Almost same to iOS with macOS.
+
+
+(1) Switch Keyboard to Remoboard
+
+![](/media/15677832281191.jpg)
+
+
+(2) Open desktop app as below, and input the Connection Code, and tap Connect.
+
+![](/media/15677836429954.jpg)
+
+(3) After connected, we could type in the edit box.
+
 
 ## Download
 
 ### Phone App
 
 - iOS [AppStore](https://apps.apple.com/us/app/id1474458879)
-- Android *soon*
+- Android [PlayStore](https://play.google.com/store/apps/details?id=com.everettjf.remoboard)
 
 ### Desktop 
 

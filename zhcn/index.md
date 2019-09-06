@@ -202,7 +202,7 @@ title: 远程输入法
 
 邮箱 everettjf@live.com
 
-或关注[这里](https://everettjf.github.io/bukuzao/)的微信订阅号，点击菜单「远程输入」加群。
+或关注[这里](https://everettjf.github.io/bukuzao/)的微信订阅号，发送消息「远程输入」加群。
 
 ---
 

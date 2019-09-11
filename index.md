@@ -3,7 +3,7 @@ layout: default
 title: Remoboard
 ---
 
-`Remoboard` means `Remote Keyboard`. With Remoboard, we can type in Desktop (macOS or Windows) and input into Phone (iOS or Android). Make typing on Phone more faster under certain situation.
+`Remoboard` means `Remote Keyboard`. With Remoboard, we can type in Desktop (macOS or Windows) and input into Phone (iOS or Android). Make typing on Phone faster under certain situation.
 
 ![macos](/media/macos.png)
 

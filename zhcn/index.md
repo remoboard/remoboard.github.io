@@ -66,18 +66,19 @@ title: 远程输入法
 
 ### macOS安装
 
-(1) 下载macOS 应用 `RemoboardMac.zip`，[下载地址在这里](https://github.com/remoboard/remoboard.github.io/releases)
+(1) 下载macOS 应用 `RemoboardMac.zip`，[GitHubRelease下载](https://github.com/remoboard/remoboard.github.io/releases)  或[百度云](https://pan.baidu.com/s/1F0LpkM4FJeYssJXmRGb6kA)
 
 ![](/media/15664933426375.jpg)
 
 
-(2) `双击解压` RemoboardMac.zip，把 `Remoboard.app` 拖动到 `~/Applications`.
+(2) 解压 RemoboardMac.zip，双击 Remoboard.dmg ，把Remoboard.app拖入Applications。
 
-![](/media/15664933888645.jpg)
+![](/media/15682475631662.jpg)
+
 
 ### Windows安装
 
-(1) 下载Windows 应用 `RemoboardWindows.zip`，[下载地址在这里](https://github.com/remoboard/remoboard.github.io/releases)
+(1) 下载Windows 应用 `RemoboardWindows.zip`，[GitHubRelease下载](https://github.com/remoboard/remoboard.github.io/releases) 或[百度云](https://pan.baidu.com/s/1F0LpkM4FJeYssJXmRGb6kA)
 
 (2) 解压后，安装。
 

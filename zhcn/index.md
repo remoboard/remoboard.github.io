@@ -11,7 +11,7 @@ title: 远程输入法
 - [快速开始](#快速开始)
     - [iOS快速开始](#ios快速开始)
     - [Android快速开始](#android快速开始)
-- 电脑端使用方法
+- [电脑端使用方法](#电脑端使用方法)
     - 安装 [macOS](#macos安装) / [Windows](#windows安装)
     - [iOS配合macOS使用方法](#ios配合macos使用方法)
     - [Android配合Windows使用方法](#android配合windows使用方法)

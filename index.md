@@ -9,10 +9,10 @@ title: Remoboard
 
 
 - [Quick Start](#quick-start)
-- Install Guide 
-    - Phone App [iOS](#install-ios) / [Android](#install-android) 
+    - [iOS Quick Start](#ios-quick-start) 
+    - [Android Quick Start](#android-quick-start) 
+- [Desktop Install Guide](#desktop-install-guide)
     - Desktop App [macOS](#install-macos) / [Windows](#install-windows)
-- Usage
     - [Usage iOS with macOS](#usage-ios-with-macos)
     - [Usage Android with Windows](#usage-android-with-windows)
 - [Download](#download)
@@ -27,7 +27,7 @@ title: Remoboard
 Remoboard contains 2 components: `Phone App (iOS or Android)` and `Desktop App (macOS or Windows)`. The two components always work together.
 
 
-### Install iOS
+### iOS Quick Start
 
 (1) Download Remoboard iOS App from [AppStore](https://apps.apple.com/us/app/id1474458879)
 
@@ -46,8 +46,10 @@ Remoboard contains 2 components: `Phone App (iOS or Android)` and `Desktop App (
 ![](/media/15664932680056.jpg)
 
 
+(6) Anywhere we could type, switch to Remoboard, and it will display an `http url`, such as `http://192.168.0.10:7777`. On our macOS or Windows, visit the url in any browser. And we will know how to type words.
 
-### Install Android
+
+### Android Quick Start
 
 (1) Start app and tap `Enable Keyboard` , and turn on `Remoboard` in `Manage keyboards`
 
@@ -63,6 +65,8 @@ Remoboard contains 2 components: `Phone App (iOS or Android)` and `Desktop App (
 
 (3) And it is ready now.
 
+(4) Anywhere we could type, switch to Remoboard, and it will display an `http url`, such as `http://192.168.0.10:7777`. On our macOS or Windows, visit the url in any browser. And we will know how to type words.
+
 
 ### Install macOS
 
@@ -74,6 +78,12 @@ Remoboard contains 2 components: `Phone App (iOS or Android)` and `Desktop App (
 (2) `Double click` RemoboardMac.zip to unzip it, and drag `Remoboard.app` into `~/Applications`.
 
 ![](/media/15664933888645.jpg)
+
+
+## Desktop Install Guide
+
+After a fresh install, the default connection mode is `Web Connection Mode`, we `do not need` to install desktop apps. Desktop apps are only required when we are under `IP or Bluetooth Connection Mode`.
+
 
 ### Install Windows
 

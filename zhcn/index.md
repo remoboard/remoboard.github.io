@@ -3,7 +3,7 @@ layout: default
 title: 远程输入法
 ---
 
-`远程输入法`（英文 `Remoboard` 或 `Remote Keyboard`）可以让我们在电脑上打字，在手机上输入。从而加快手机上的打字速度。
+`远程输入法`（`Remoboard`) 可以让我们在电脑上打字，在手机上输入。从而加快手机上的打字速度。
 
 ![macos](/media/macos.png)
 
@@ -11,12 +11,10 @@ title: 远程输入法
 - [快速开始](#快速开始)
     - [iOS快速开始](#ios快速开始)
     - [Android快速开始](#android快速开始)
-- [电脑端使用方法](#电脑端使用方法)
-    - 安装 [macOS](#macos安装) / [Windows](#windows安装)
-    - [iOS配合macOS使用方法](#ios配合macos使用方法)
-    - [Android配合Windows使用方法](#android配合windows使用方法)
 - [下载地址](#下载地址)
 - [更多用法](#更多用法)
+    - [输入模式](#输入模式)
+    - [输入小技巧](#输入小技巧)
 - [常见问题](#常见问题)
 - [联系方式](#联系方式)
 - [English Website](/)
@@ -25,7 +23,6 @@ title: 远程输入法
 
 ## 快速开始
 
-远程输入法包含`两个部分`，`手机端`和`电脑端`。这两个端相互配合完成打字。因此，如果要使用这个输入法，手机端和电脑端分别有一个就可以（默认的Web连接模式，不需要单独安装电脑端）。
 
 ### iOS快速开始
 
@@ -71,94 +68,11 @@ title: 远程输入法
 ![](media/15704954191405.jpg)
 
 
-## 电脑端使用方法
-
-默认情况下，电脑和手机的连接模式是`Web连接模式`，`不需要安装电脑端`。当切换连接模式为`IP连接模式`或者`蓝牙连接模式`时，就需要额外安装`电脑端`了。
-
-
-
-### macOS安装
-
-(1) 下载macOS 应用 `RemoboardMac.zip`，[GitHubRelease下载](https://github.com/remoboard/remoboard.github.io/releases)  或[百度云](https://pan.baidu.com/s/1F0LpkM4FJeYssJXmRGb6kA)
-
-![](/media/15664933426375.jpg)
-
-
-(2) 解压 RemoboardMac.zip，双击 Remoboard.dmg ，把Remoboard.app拖入Applications。
-
-![](/media/15682475631662.jpg)
-
-
-### Windows安装
-
-(1) 下载Windows 应用 `RemoboardWindows.zip`，[GitHubRelease下载](https://github.com/remoboard/remoboard.github.io/releases) 或[百度云](https://pan.baidu.com/s/1F0LpkM4FJeYssJXmRGb6kA)
-
-(2) 解压后，安装。
-
-### iOS配合macOS使用方法
-
-(1) 在手机上，打开任意可以输入文字的应用，长按左下角切换到`远程输入法`
-
-![](/media/15672686555396.jpg)
-
-
-现在，远程输入法会显示一个`连接码`，以及`IP地址`。当然前提是**确保iPhone连接到了Wi-Fi**
-
-![](/media/15672686708979.jpg)
-
-
-
-(2) 打开macOS上的远程输入法
-
-![](/media/15664935874846.jpg)
-
-
-输入法手机上显示的连接码, 然后点击 `Connect`. 如果一切正常，则连接成功。如果连接失败，请检查手机和电脑是否连接在`同一个内网`中（电脑可以ping通手机的IP地址）。
-
-![](/media/15664949917624.jpg)
-
-对应的手机上会显示 `已连接，打字啦 :)`
-
-![](/media/15672686865059.jpg)
-
-一旦熟悉了，就很简单易用啦 :)
-
-有「三种输入模式」，请见下文。
-
-
-### Android配合Windows使用方法
-
-
-(1) 首先切换输入法到「远程输入法」
-
-![](/media/15677838792591.jpg)
-
-
-（2）在可输入文字的位置，远程输入法默认会显示连接码。
-
-![](/media/15677837375419.jpg)
-
-（3） 打开Windows客户端，输入连接码，点击「连接」。如果连接成功，则可以在下面的输入框中打字。
-
-![](/media/15677831476448.jpg)
-
-
-有「三种输入模式」，请见下文。
-
-
 ## 下载地址
 
-### 手机端
 
 - iOS [AppStore](https://apps.apple.com/cn/app/id1474458879)
 - Android [酷安](https://www.coolapk.com/apk/241412) 或 [PlayStore](https://play.google.com/store/apps/details?id=com.everettjf.remoboard)
-
-### 电脑端
-
-默认的`Web连接模式不需要`安装电脑端，当使用`IP连接模式`或者`蓝牙连接模式`时，需要安装电脑端。
-
-- macOS [Download](https://github.com/remoboard/remoboard.github.io/releases)
-- Windows [Download](https://github.com/remoboard/remoboard.github.io/releases)
 
 ## 更多用法
 
@@ -166,13 +80,14 @@ title: 远程输入法
 
 有三种输入模式：
 
-![](/media/15673533973864.jpg)
+![-w268](/media/15709522308975.jpg)
+
 
 (1) 标准输入模式
 
 这种模式下可以输入「一行文字」，然后「按回车发送」。
 
-![](/media/15673534147742.jpg)
+![-w432](/media/15709523085903.jpg)
 
 
 
@@ -180,40 +95,32 @@ title: 远程输入法
 
 这种模式下，可以「输入或粘贴多行文字」，「点击按钮」发送。
 
-![](/media/15673534464766.jpg)
+![-w458](/media/15709522655498.jpg)
 
 
-(3) 即时输入模式（编程模式）
+(3) 编程输入模式
 
+![-w446](/media/15709522875570.jpg)
 
-![](/media/15673534599305.jpg)
 
 这种模式下，文字会边打边发送，很适合一些手机端的编程应用。
 
-### 连接模式
+### 输入小技巧
 
-有两种连接模式：
+三种输入模式中，当输入文本框内容为空时，还支持以下按键：
 
-(1) Web连接模式（默认的连接模式，不需要安装电脑端）
-
-(2) IP连接模式。（连接码本质上是IP地址的另一个表示方式，需要安装电脑端）
-
-(3) 蓝牙模式。（目前可能不够稳定，需要安装电脑端）
-
-![](/media/15673534850484.jpg)
-
+1. 退格键：删除手机上的文字
+2. 按键左和右：向左 和 向右 移动光标
+3. 按键上和下：向左 和 向右 移动 20 个字符。如果手机上的左或右不够20个字符，不会移动。
 
 
 ## 常见问题
 
 ### 连接不上？
 
-1. 确保手机和电脑连接到了「一个网络中」。
+1. 确保手机和电脑连接到了「一个网络中」(例如一个Wi-Fi下）。
 2. 确保电脑可以ping通手机的IP地址。
 
-### 蓝牙不稳定？
-
-蓝牙连接方式还是测试阶段，基本可用，但多数情况不如连接码稳定。
 
 ## 联系方式
 
@@ -223,7 +130,6 @@ title: 远程输入法
 
 ---
 
-Wish you enjoy :)
-
+感谢使用 :)
 
 

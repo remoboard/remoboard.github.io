@@ -44,6 +44,9 @@ title: Remoboard
 
 (6) Anywhere we could type, switch to Remoboard, and it will display an `http url`, such as `http://192.168.0.10:7777`. On our macOS or Windows or Linux, visit the url in any browser. And we will know how to type words.
 
+![-w365](/media/15709535206880.jpg)
+
+
 
 ### Android Quick Start
 

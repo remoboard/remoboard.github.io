@@ -20,6 +20,7 @@ title: 远程输入法
 - [English Website](/)
 
 
+推荐文章：[少数派：「远程输入法」新版发布，用浏览器给手机打字](https://sspai.com/post/57008)
 
 ## 快速开始
 

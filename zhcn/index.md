@@ -20,7 +20,13 @@ title: 远程输入法
 - [English Website](/)
 
 
-推荐文章：[少数派：「远程输入法」新版发布，用浏览器给手机打字](https://sspai.com/post/57008)
+感谢:
+
+- [少数派:「远程输入法」新版发布，用浏览器给手机打字]( https://sspai.com/post/57008)
+- [异次元: 远程输入法 - 用电脑键盘给手机打字的创意效率应用！省蓝牙键盘钱了](https://www.iplaysoft.com/remoboard.html)
+
+---
+
 
 ## 快速开始
 

@@ -26,7 +26,9 @@ title: 远程输入法
 - [异次元: 远程输入法 - 用电脑键盘给手机打字的创意效率应用！省蓝牙键盘钱了](https://www.iplaysoft.com/remoboard.html)
 - [最美应用: 这款 APP 终于解决了困扰我这么多年的麻烦](https://mp.weixin.qq.com/s/PLWkVuEdJCk6cLGEQVZDbw)
 - [虚拟框架：远程输入法发布啦，用电脑给手机打字](https://mp.weixin.qq.com/s/wC7clnEAGCHA09zrVd2s4w)
+- [小众软件：远程输入法，用电脑给手机输入文字](https://www.appinn.com/whatsinput-for-android/)
 
+还有感谢「PriceTag」等媒体的宣传。
 
 ---
 
